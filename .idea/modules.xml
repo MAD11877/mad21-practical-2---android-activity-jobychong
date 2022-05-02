@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MAD_Week_2_Practical.iml" filepath="$PROJECT_DIR$/.idea/modules/MAD_Week_2_Practical.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MAD_Week_2_Practical.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MAD_Week_2_Practical.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mad21-practical-2---android-activity-jobychong.iml" filepath="$PROJECT_DIR$/.idea/modules/mad21-practical-2---android-activity-jobychong.iml" />
     </modules>
   </component>
 </project>
